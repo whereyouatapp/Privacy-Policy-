@@ -15,17 +15,18 @@ If you have any questions or concerns at any time, please do not hesitate to con
 
 2.1 Application. 
 
-This Privacy Policy sets forth our policy with respect to information that can be associated with or which relates to a person and/or could be used to identify a person ("Personal Data") that is collected from Users on or through the Services. We take the privacy of your Personal Data seriously. Because of that, we have created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information. 
+This Privacy Policy sets forth our policy with respect to information that can be associated with or which relates to a person and/or could be used to identify a person ("Personal Data") that is collected from Users. We take the privacy of your Personal Data seriously. Because of that, we have created this Privacy Policy.
 
 "Non-Personal Data" as used in this Privacy Policy is therefore any information that does not relate to a person and/or cannot be used to identify a person. When you interact with the Services, we may collect Non-Personal Data. The limitations and requirements in this Privacy Policy on our collection, use, disclosure, transfer and storage/retention of Personal Data do not apply to Non-Personal Data.
 3-4
+
 3. Personal Data That We Collect. 
 
-When you use or interact with us through the Services, we may collect Personal Data. Sometimes this will be on our own behalf and other times this will be on behalf of an Organizer using our Services to run an event. This is an important distinction for purposes of certain data protection laws and is explained in more detail below. 
+When you use or interact with us through the Platform, we may collect Personal Data. Sometimes this will be on our own behalf and other times this will be on behalf of an Organizer using our Services to run an event.
 
 3.1 Information Collected From All Users. 
 
-Information you provide to us: For all Users we collect Personal Data when you voluntarily provide such information to the Services, such as when you register for access to the Services, contact us with inquiries. The Personal Data we may collect includes without limitation your name, age, email address, telephone number and any other information that you choose to provide and/or that enables Users to be personally identified. 
+Information you provide to us: For all Users we collect Personal Data when you voluntarily provide such information to the Platform, such as when you sign up for the platform, contact us with inquiries. The Personal Data we may collect includes without limitation your name, age, email address, telephone number.
 
 
 When you register for the Services or otherwise submit Personal Data to us, we may associate other Non-Personal Data (including Non-Personal Data we collect from third parties) with your Personal Data. At such instance, we will treat any such combined data as your Personal Data until such time as it can no longer be associated with you or used to identify you. 
@@ -34,15 +35,13 @@ When you register for the Services or otherwise submit Personal Data to us, we m
 
 If you are an Organizer/Business we will collect additional Personal Data from you. 
 
-Information you provide to us: In some cases, we may collect telephone, business name, and email address. 
+Information you provide to us: In some cases, we may collect telephone, business name, and email address, profile image. 
 d
 3.3 Information Collected From Consumers. 
 
-If you are a Consumer we will collect additional Personal Data from r (see Section 16 below for more information). 
-ddd
-Information you provide via Eventbrite Properties or Applications: If you register for a paid event, you will provide financial information (e.g., your credit card number and expiration date, billing address, etc.) some of which may constitute Personal Data. In addition, Organizers can set up event registration pages to collect virtually any information from Consumers in connection with registration for an Organizer's event listed on the Services. Eventbrite does not control an Organizer's registration process nor the Personal Data that they collect. When you register for, or otherwise provide information to Eventbrite in conjunction with an Organizer event or activity, whether that information is yours or a third party’s, in connection with a purchase, registration, or transfer, that Organizer will receive and may use the information you provide. Please see Section 5.5 below, titled “How We Disclose and Transfer Your Personal Data: Organizers” for more information about an Organizer’s receipt and use of your Personal Data. 
+If you are a Consumer we will collect additional Personal Data from you.
 
-Information we obtain from other sources: We may also collect or receive Personal Data from third party sources, such as Organizers, other Consumers, social media or other third party integrations, your credit card issuing bank, our payment processing partners or other third parties. 
+Information you provide via WhereYouAt: If you favorited/going to event on the platform. Some of which may constitute Personal Data. In addition, Organizers/Business can set up event to collect virtually any information from Consumers in connection with registration for an Organizer's event listed on the Platform. WhereYouAt does not control an Organizer's registration process nor the Personal Data that they collect. When you register for, or otherwise provide information to WhereYouAt in conjunction with an Organizer event or activity.
 
 4. How We Use Your Personal Data. 
 
@@ -54,7 +53,7 @@ If you provide Personal Data for a certain purpose, we may use the Personal Data
 
 4.2 Access and Use. 
 
-If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to analyze your use of such Services or functionality. For instance, if you supply Personal Data relating to your identity or qualifications to use certain portions of the Services, we will use that information to make a decision as to granting you access to use such Services and to assess your ongoing qualification to use such Services. 
+If you provide Personal Data in order to obtain access to or use of the Platform or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Platform or functionality and to analyze your use of such Platform or functionality. For instance, if you supply Personal Data relating to your identity to use certain portions of the Services, we will use that information to make a decision as to granting you access to use such Services and to assess your ongoing qualification to use such Services. 
 
 4.3 Internal Business Purposes. 
 
